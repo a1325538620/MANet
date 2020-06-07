@@ -1,0 +1,1 @@
+Unzip Market_1501 and DukeMTMC-ReID to the current directory
