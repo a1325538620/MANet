@@ -11,7 +11,7 @@ The specific results are as follows:
 An example on Market_1501:
 	
 	train:
-    		python main_reid.py train --save_dir='./pytorch-ckpt/market-bfe' --max_epoch=400 --eval_step=30 --dataset=market1501 --test_batch=32 --train_batch=32 --optim=adam --adjust_lr	
+		python main_reid.py train --save_dir='./pytorch-ckpt/market-bfe' --max_epoch=400 --eval_step=30 --dataset=market1501 --test_batch=32 --train_batch=32 --optim=adam --adjust_lr	
 	test:
 		python main_reid.py train --save_dir='./pytorch-ckpt/market_bfe' --model_name=bfe --train_batch=32 --test_batch=32 --dataset=market1501 --pretrained_model='./pytorch-ckpt/market-bfe/model_best.pth.tar' --evaluate
 We also uploaded the log during training(256dims).
