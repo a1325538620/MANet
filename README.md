@@ -4,10 +4,11 @@ Download the Market_1501 or DukeMTMC-ReID and unzip to the data folder
 
 The pre-trained model of ResNet-50 can be downloaded from:
 	https://download.pytorch.org/models/resnet50-19c8e357.pth
+
 The pre-trained model of ResNeSt-50 can be downloaded from:
 	https://hangzh.s3.amazonaws.com/encoding/models/resnest50-528c19ca.pth
 	
-The feature vectors of the auxiliary branches can be set to 256, 512, and 1024. 
+The feature vector of the auxiliary branch can be set to 256, 512, and 1024. 
 The specific results are as follows:
 
 	Market_1501:	85.7%/95.2% (256dims) | 85.9%/95.3% (512dims) | 87.3%/95.7% (1024dims)
