@@ -22,7 +22,7 @@ An example on Market_1501:
 We also upload the log during training(256dims).
 
 
-2020/6/19: Reminded by a friend, we also tested the effect of the model on MSMT17 (auxiliary branch vector size: 512dims):
+2020/6/19: Reminded by a friend, we also test the effect of the model on MSMT17 (auxiliary branch vector size: 512dims):
 
 	mAP/rank1 : 56.7%/82.8%
 	
