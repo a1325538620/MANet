@@ -21,11 +21,11 @@
 2020/6/19: 
 
 	The experiment is based on two 2080Ti and Pytorch 1.2.
-	Reminded by a friend, we also test the effect of the model on MSMT17 (auxiliary branch vector size: 512dims): 
+	Reminded by a friend, we also test the effect of the model on MSMT17 which is a more complex dataset(auxiliary branch vector size: 512dims): 
 		mAP/rank1 : 56.7%/82.8%
 	
 
-	We also updata the training log of MSMT17.
+	We also update the training log of MSMT17.
 	MSMT17 dataset can be downloaded from:
 		链接：https://pan.baidu.com/s/12khamxao4fDXc4aA9rKEIA  提取码：axqt
 		
