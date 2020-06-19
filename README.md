@@ -28,7 +28,8 @@
 		链接：https://pan.baidu.com/s/12khamxao4fDXc4aA9rKEIA  提取码：axqt
 		
 		
-PS:		
+PS:	
+
 	The experiment is based on two 2080Ti and Pytorch 1.2.
 	An example on Market_1501:
 		train:
