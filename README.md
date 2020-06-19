@@ -24,7 +24,11 @@ We also upload the log during training(256dims).
 
 2020/6/19: Reminded by a friend, we also tested the effect of the model on MSMT17 (auxiliary branch vector size: 512dims):
 	mAP/rank1 : 56.7%/82.8%
+	
+
 We also updata the training log of MSMT17.
+
+
 MSMT17 dataset can be downloaded from : 
 	链接：https://pan.baidu.com/s/12khamxao4fDXc4aA9rKEIA 
 	提取码：axqt
