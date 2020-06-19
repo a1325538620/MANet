@@ -26,8 +26,6 @@
 	
 
 	We also update the training log of MSMT17.
-	MSMT17 dataset can be downloaded from:
-		链接：https://pan.baidu.com/s/12khamxao4fDXc4aA9rKEIA  提取码：axqt
 		
 		
 PS:	
