@@ -1,5 +1,6 @@
 # MANet
 2020/6/7:
+
 	These experiments are based on a 2080Ti and Pytorch 1.2.
 	Download the Market_1501 or DukeMTMC-ReID and unzip to the data folder
 
@@ -19,6 +20,7 @@
 
 2020/6/19: 
 
+	The experiment is based on two 2080Ti and Pytorch 1.2.
 	Reminded by a friend, we also test the effect of the model on MSMT17 (auxiliary branch vector size: 512dims): 
 		mAP/rank1 : 56.7%/82.8%
 	
@@ -30,7 +32,6 @@
 		
 PS:	
 
-	The experiment is based on two 2080Ti and Pytorch 1.2.
 	An example on Market_1501:
 		train:
 			python main_reid.py train --save_dir='./pytorch-ckpt/market-bfe' --max_epoch=400 --eval_step=30 --dataset=market1501 --test_batch=32 --train_batch=32 --optim=adam --adjust_lr	
