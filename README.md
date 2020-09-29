@@ -8,7 +8,7 @@
 		https://download.pytorch.org/models/resnet50-19c8e357.pth
 
 	The pre-trained model of ResNeSt-50 can be downloaded from:
-		https://hangzh.s3.amazonaws.com/encoding/models/resnest50-528c19ca.pth
+		https://s3.us-west-1.wasabisys.com/resnest/torch/resnest50-528c19ca.pth
 	
 	The feature vector of the auxiliary branch can be set to 256, 512, and 1024. 
 	The specific results are as follows:
